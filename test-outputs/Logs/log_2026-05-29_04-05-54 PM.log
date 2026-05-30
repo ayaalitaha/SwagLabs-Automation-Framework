@@ -1,0 +1,21 @@
+[DEBUG] 29-05-2026 16:05:55 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Dell\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml"
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE BaseTest.setUp()[pri:0, instance:null] 669658892
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] -1113275789
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE E2EWorkflowTest.completePurchaseFlow()[pri:0, instance:Tests.E2EWorkflowTest@6c075e9d] 1493292810
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 16:05:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[INFO] 29-05-2026 16:05:57 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+[INFO] 29-05-2026 16:05:58 [main] [Utilities.LogsUtils] - Target Browser: chrome
+[INFO] 29-05-2026 16:06:08 [main] [Utilities.LogsUtils] - driver context session terminated safely.
